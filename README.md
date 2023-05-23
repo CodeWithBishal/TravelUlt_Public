@@ -6,7 +6,7 @@ Travel Ult: The Ultimate Travel Management App
 Travel Ult offers a range of features,
 
 - including a login/signup option using Google or Email authentication. Once signed up, users can easily add and manage their trips within the app.
-- The app uses Google Maps API to fetch the `Nearest Points of Interest` based on the user's destination, allowing them to explore the best places in the area.
+- The app uses Google Maps API to fetch the Nearest Points of Interest based on the user's destination, allowing them to explore the best places in the area.
 - It also pulls in an image of the destination from the Unsplash API, helping users visualize their trip even before it begins.
 
 In addition, Travel Ult offers a section for users to upload tickets and documents, making it easier to keep everything in one place. It also includes a section to add travel notes, ensuring that users never forget their favorite moments from their trip. Once a trip is complete, users can mark it as complete or delete it altogether.
@@ -22,11 +22,17 @@ Travel Ult is built using:
 
 Key Technologies I added into Travel Ult:
 🔹 Firebase Crashlytics: I have implemented Crashlytics to effectively capture error logs and troubleshoot issues when the application crashes or does not work as expected.
+
 🔹Firebase Auth: Using Firebase Authentication Services to Manage Google/Email Authentication
+
 🔹Firebase Dynamic Links: To enhance the user experience, I am using Dynamic Links to seamlessly open the application with specific data, such as successful email verification popup. In cases where the app is not installed, It automatically redirect users to the website.
+
 🔹Firebase Remote Config: To efficiently control access to the app, I am using Remote Config. This allows me to revoke access if the installed app version falls below a certain version. It can also be used to completely or partially block/unblock certain parts of the app, during a downtime etc.
+
 🔹Firebase Storage: Using Firebase Storage for storing and retrieving Trip data.
+
 🔹Hive: I am using Hive as a local database to store Trip Data Locally.
+
 
 P.S. You can Now download the app from PlayStore.
 
