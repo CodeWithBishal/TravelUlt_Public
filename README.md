@@ -21,6 +21,7 @@ Travel Ult is built using:
 - Unsplash API
 
 Key Technologies I added into Travel Ult:
+
 🔹 Firebase Crashlytics: I have implemented Crashlytics to effectively capture error logs and troubleshoot issues when the application crashes or does not work as expected.
 
 🔹Firebase Auth: Using Firebase Authentication Services to Manage Google/Email Authentication
