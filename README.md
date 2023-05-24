@@ -15,7 +15,7 @@ But that's not all! Users can book train, flight, bus, and hotels - all within T
 
 Travel Ult is built using:
 
-- Flutter
+- Flutter - Dev
 - Firebase
 - Google Maps API
 - Unsplash API
@@ -36,8 +36,6 @@ Key Technologies I added into Travel Ult:
 
 
 P.S. You can Now download the app from PlayStore.
-
-Took me around 1.5 Years along with other Major Projects & Academics to Complete this app. This is the 105th version.
 
 
 # TravelUlt
