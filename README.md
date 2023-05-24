@@ -15,7 +15,7 @@ But that's not all! Users can book train, flight, bus, and hotels - all within T
 
 Travel Ult is built using:
 
-- Flutter - Dev
+- Flutter - Dart
 - Firebase
 - Google Maps API
 - Unsplash API
